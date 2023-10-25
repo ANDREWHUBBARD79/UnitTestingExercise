@@ -36,7 +36,7 @@ namespace UnitTestingExercise
         // Create a Multiply method that passes 2 integers
         public int MultiplyTest(int one, int two)
         {
-            throw new NotImplementedException();
+            return one * two;
         }
 
         // Step 7: Navigate to the UnitTests.cs file and complete the MultiplyTest unit test method 
@@ -46,7 +46,7 @@ namespace UnitTestingExercise
         // Create a Divide method that passes 2 integers
         public int DivideTest(int one, int two)
         {
-            throw new NotImplementedException();
+            return one / two;
         }
 
 
